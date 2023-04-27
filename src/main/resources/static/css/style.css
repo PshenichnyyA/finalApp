@@ -1,0 +1,45 @@
+.card-img-top {
+    display: inline-block;
+    overflow: hidden;
+}
+.card-img-top {
+    transition: 1s;
+    display: block;
+}
+.card-img-top {
+    transform: scale(1.2);
+}
+
+
+body{
+    background-color: #508bfc;
+}
+/* --------------------------------------- ХЕАДЕР С МЕНЮ И ЛОГОТИПОМ --------------------------------------- */
+
+.header
+{
+
+}
+.menu
+{
+
+}
+.menu a
+{
+    padding-right: 30px;
+    text-decoration: none;
+    color: blue;
+    text-align: center;
+}
+.menu a:hover
+{
+    color: orange;
+}
+.logo
+{
+    float: left;
+}
+.logo img
+{
+    height: 80px;
+}
